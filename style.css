@@ -1,0 +1,47 @@
+.entrada {
+    background-color: #28a745;
+}
+
+.salida {
+    background-color: #dc3545;
+}
+
+.tipo-entrada {
+    background-color: #28a745;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+.tipo-salida {
+    background-color: #dc3545;
+    color: white;
+    padding: 2px 5px;
+    border-radius: 3px;
+}
+
+
+/* Estilos adicionales
+body {
+    background-color: #f4f4f4;
+}
+
+header {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#imagePreview img {
+    max-width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.entrada {
+    background-color: #d4edda;
+}
+
+.salida {
+    background-color: #f8d7da;
+}
+*/
